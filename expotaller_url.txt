@@ -1,0 +1,19 @@
+
+
+
+
+http://aprendegit.com/opciones-del-comando-git-add/
+
+
+Tutorial https://try.github.io/levels/1/challenges/1
+
+https://carloscarcamo.gitbooks.io/git-intro/content/ignorando_archivos.html
+
+https://desktop.github.com/
+
+https://git-scm.com/book/es/v1
+
+http://aprendegit.com/fork-de-repositorios-para-que-sirve/
+
+
+borrar carpeta desde git  : rm -r "nombreCArpertasin comillas" o archivos con la extension

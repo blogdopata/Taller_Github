@@ -1,0 +1,202 @@
+commit 94d46b774512183478fd91ec3b24777c1dd9f6af
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Wed Oct 19 14:11:40 2016 -0500
+
+    more present
+
+commit ab0b3045e4ed925e9ba7d747d9991d7a05c676fb
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Tue Oct 18 21:54:33 2016 -0500
+
+    mas urls
+
+commit b4acf544162f32c70b4fd57a64e826cb1a13cea7
+Merge: 1d88782 a5a0176
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Tue Oct 18 19:49:45 2016 -0500
+
+    Merge branch 'master' of https://github.com/repotaller2/taller
+
+commit 1d8878206f32d3c0c19fad4480939d0928c9cd68
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Tue Oct 18 19:49:04 2016 -0500
+
+    presentacion fix
+
+commit a5a01768e6b8e78c0aae2a6cd2e175344c09c640
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Tue Oct 18 19:36:33 2016 -0500
+
+    subete esta
+
+commit 06d43e6fbf3860bc722986987c34318965ae7d99
+Author: blogdopata <vcaballero_c@hotmail.com>
+Date:   Tue Oct 18 18:18:56 2016 -0500
+
+    viendo checkout - commit
+
+commit b867bf874dee9adc55c6caaed50eff156c3afd0c
+Author: repotaller2 <mozo_sanz@hotmail.com>
+Date:   Tue Oct 18 16:11:48 2016 -0500
+
+    preparando para fix
+
+commit 4a786a2508f76fa582d4d70245a12c9196523c19
+Author: victor <vcabalero_c@hotmail.com>
+Date:   Tue Oct 18 05:26:59 2016 -0500
+
+    probando logs
+
+commit f939a87f0855b9cb99c2bafc5387868adb17c2d6
+Author: victor <vcabalero_c@hotmail.com>
+Date:   Tue Oct 18 04:42:54 2016 -0500
+
+    modificaciones rainou
+
+commit 6c05b42385d0d49d12cb58f873240db5a9f0aaf7
+Author: repotaller2 <mozo_sanz@hotmail.com>
+Date:   Mon Oct 17 21:54:22 2016 -0500
+
+    subirpic10
+
+commit a3f32429f1b4065c7d8b97533c138364b32b9c96
+Author: VICTOR ALFONSO CABALLERO CABRERA <victor_caballero1@USMP.EDU>
+Date:   Mon Oct 17 21:39:09 2016 -0500
+
+    se agregaron nuevas imagenes
+
+commit 05c38f51ce3babc791a67f53c7711109df0aaa0f
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Mon Oct 17 14:55:11 2016 -0500
+
+    probando borrado
+
+commit 4c1a3d50ae9dba7710b4532b0e66fcd03ace0f7a
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Mon Oct 17 14:54:17 2016 -0500
+
+    files
+
+commit 6e23a9ca357b563c7e6ef25b88e224545e7b3e08
+Author: victor <vcabalero_c@hotmail.com>
+Date:   Mon Oct 17 05:21:08 2016 -0500
+
+    agregando  nuevas vistas2
+
+commit 93859686650b50d36ea7adde465494d0535cfad0
+Author: victor <vcabalero_c@hotmail.com>
+Date:   Mon Oct 17 05:20:19 2016 -0500
+
+    agregando  nuevas vistas
+
+commit e71af23b618d195f232163327778fa96ea7b60aa
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Thu Oct 13 17:31:11 2016 -0500
+
+    Revert "probando entorno visual"
+    
+    This reverts commit 1bf10885bccfedea438c23a956a0799582f95a9b.
+
+commit 1bf10885bccfedea438c23a956a0799582f95a9b
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Thu Oct 13 17:28:52 2016 -0500
+
+    probando entorno visual
+    
+    veste con !!!
+
+commit 284e77a1c41ecc13e753fd538337a16efcae17be
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Thu Oct 13 15:49:16 2016 -0500
+
+    presentacion fix
+
+commit 926bdea9647029147ffc177183068c08007fc94e
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Thu Oct 13 15:11:40 2016 -0500
+
+    fix git
+
+commit d1deee0de8faf771980565b741ab90149d91267b
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Thu Oct 13 15:10:24 2016 -0500
+
+    embassador
+
+commit 242e3b434528668eda8cf7f896bde4dbdfeba550
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Wed Oct 12 21:50:09 2016 -0500
+
+    GO EXCEL
+
+commit 4d2ca328b7aa1fc1d975d6bbd38494e9a9c49fab
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Wed Oct 12 21:44:55 2016 -0500
+
+    subio excel
+
+commit 8da59ddc0d61e24a7d94114df011a0bf6f0da4de
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Wed Oct 12 15:50:24 2016 -0500
+
+    agregando ignor
+
+commit d946effdb5358e3917042e62d4fac6547394903c
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Wed Oct 12 15:48:49 2016 -0500
+
+    Ahora si  denegar archivos
+
+commit 32b14a31f87ece71e04ff7b4c0203359d410abcd
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Wed Oct 12 15:45:03 2016 -0500
+
+    ignorar archivos
+
+commit f0d25eb4bcecaa882ffc5d4802fe30cfc6a187ed
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Tue Oct 11 21:56:49 2016 -0500
+
+    arreglando presentacion
+
+commit 91f2c7e48d2bf592bf6f5e012f3d9c002b4dff05
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Tue Oct 11 17:56:15 2016 -0500
+
+    README
+
+commit c7327652acdf2d47d9102103999ac740cf2c36df
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Tue Oct 11 17:30:28 2016 -0500
+
+    se agrego archivo fail .html
+
+commit 8a6e1d6aabe773d644688f2470b31286c73682d8
+Author: testito <mozo_sanz@hotmail.com>
+Date:   Mon Oct 10 21:56:26 2016 -0500
+
+    fixeado
+
+commit 6ef46239035967eb58435ea6e84dd54e4b219cc6
+Author: blogdopata <vcaballer_c@hotmail.com>
+Date:   Mon Oct 10 20:57:34 2016 -0500
+
+    se borro lo que no sirve
+
+commit 51e6c879ccd01776f433ab481b4919767ebc8eb5
+Author: blogdopata <vcaballer_c@hotmail.com>
+Date:   Mon Oct 10 19:55:09 2016 -0500
+
+    prabando deletes
+
+commit 49a8118f88ddab341703602853ce3a184271a80a
+Author: blogdopata <vcaballer_c@hotmail.com>
+Date:   Mon Oct 10 17:22:08 2016 -0500
+
+    test de carpetas v.1.0
+
+commit de1c972ef2495eed0a735689d36484b9001e2f85
+Author: blogdopata <vcaballer_c@hotmail.com>
+Date:   Fri Oct 7 21:55:18 2016 -0500
+
+    Subir expo Taller

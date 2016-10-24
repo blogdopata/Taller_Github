@@ -1,0 +1,7 @@
+$ cat .gitignore 
+# ignorar los archivos que coincidan con los siguientes patrones 
+
+~* 
+*.so 
+*.log
+*.ppt
