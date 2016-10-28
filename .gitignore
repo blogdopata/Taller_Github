@@ -5,3 +5,5 @@ $ cat .gitignore
 *.so 
 *.log
 *.ppt
+*.docx
+*.gif
